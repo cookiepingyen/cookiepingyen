@@ -14,6 +14,11 @@ For me, coding is not just a job — it's also a way to turn ideas into reality.
 ### Side Project
 [<img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cookiepingyen&repo=14th-iDing&theme=transparent&bg_color=f2f2f2&title_color=4b5563&hide_border=true&show_icons=false" alt="14th-iDing repo card">](https://github.com/cookiepingyen/14th-iDing)
 
+### 🖥️ Weekly development breakdown
+<br />
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ### 📊 My github stats
 [![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiepingyen&show_icons=true&theme=ayu-mirage)](https://github.com/cookiepingyen/github-readme-stats)
