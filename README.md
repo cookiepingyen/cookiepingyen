@@ -15,8 +15,15 @@ For me, coding is not just a job — it's also a way to turn ideas into reality.
 [<img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cookiepingyen&repo=14th-iDing&theme=transparent&bg_color=f2f2f2&title_color=4b5563&hide_border=true&show_icons=false" alt="14th-iDing repo card">](https://github.com/cookiepingyen/14th-iDing)
 
 ### 🖥️ Weekly development breakdown
-<br />
 <!--START_SECTION:waka-->
+
+```txt
+Ruby          16 hrs 36 mins  ██████████████░░░░░░░░░░░   56.26 %
+ERB           3 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+JavaScript    3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+C#            3 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+YAML          57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+```
 
 <!--END_SECTION:waka-->
 
