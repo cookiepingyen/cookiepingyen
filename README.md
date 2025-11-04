@@ -28,5 +28,4 @@ Other         51 mins         ▓░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### 📊 My github stats
-[![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiepingyen&show_icons=true&theme=ayu-mirage)](https://github.com/cookiepingyen/github-readme-stats)
-
+![Yen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiepingyen&show_icons=true&theme=ayu-mirage)
