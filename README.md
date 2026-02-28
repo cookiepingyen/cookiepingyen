@@ -18,11 +18,11 @@ For me, coding is not just a job — it's also a way to turn ideas into reality.
 <!--START_SECTION:waka-->
 
 ```txt
-C#       59 mins               ███████████▓░░░░░░░░░░░░░   46.01 %
-XAML     32 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
-Binary   26 mins               █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Other    9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-XML      1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+C#       1 hr 46 mins          ██████████▓░░░░░░░░░░░░░░   42.67 %
+XAML     1 hr 8 mins           ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+Binary   37 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Other    21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+XML      15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
